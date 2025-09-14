@@ -15,6 +15,7 @@ Uso de tablas dinámicas, Power Query y Power Pivot para procesar información.
 
 - 📈 Dashboards
 Creación de paneles interactivos con gráficos, segmentaciones y diseño visual.
+
 <!--
 🧩 Funciones avanzadas
 Ejemplos con ÍNDICE, COINCIDIR, DESREF, XLOOKUP, funciones dinámicas, y más.
