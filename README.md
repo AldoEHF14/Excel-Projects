@@ -4,9 +4,6 @@ Este repostorio contiene problemas de Excel, asi como creacion de dashboards.
 ## 📂 Contenido del Repositorio
 En este repositorio encontrarás diferentes prácticas, proyectos y ejemplos en Excel 🟩, organizados en varios temas:
 
-- 🤖 Uso de ChatGPT + Excel
-Ideas, fórmulas y automatizaciones sugeridas con ChatGPT para resolver problemas en hojas de cálculo.
-
 - 🔤 Funciones básicas
 Operaciones comunes en Excel: SUMA, PROMEDIO, SI, BUSCARV, etc.
 
@@ -15,6 +12,9 @@ Uso de tablas dinámicas, Power Query y Power Pivot para procesar información.
 
 - 📈 Dashboards
 Creación de paneles interactivos con gráficos, segmentaciones y diseño visual.
+
+- 🤖 Uso de ChatGPT + Excel
+Ideas, fórmulas y automatizaciones sugeridas con ChatGPT para resolver problemas en hojas de cálculo.
 
 - ⚙️ Macros (VBA)
 Ejemplos de automatización con usando macros en Excel.
