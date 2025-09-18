@@ -1,8 +1,5 @@
 # 📈 Excel-projects
-Este repostorio contiene problemas de Excel, asi como creacion de dashboards.
-
-## 📂 Contenido del Repositorio
-En este repositorio encontrarás diferentes prácticas, proyectos y ejemplos en Excel 🟩, organizados en varios temas:
+Este repostorio contiene problemas de Excel, asi como creacion de dashboards. Encontrarás diferentes prácticas, proyectos y ejemplos en Excel 🟩, organizados en varios temas:
 
 - 🔤 Funciones básicas
 Operaciones comunes en Excel: SUMA, PROMEDIO, SI, BUSCARV, etc.
