@@ -1,4 +1,4 @@
-# 📈 Excel-projects
+# 🟩Excel-projects
 Este repostorio contiene problemas de Excel, asi como creacion de dashboards. Encontrarás diferentes prácticas, proyectos y ejemplos en Excel.
 
 Estan organizados en varios temas:
@@ -10,7 +10,7 @@ Estan organizados en varios temas:
 - ⚙️ Macros (VBA): Ejemplos de automatización con usando macros en Excel.
 
 <!--
-🟩 Funciones avanzadas
+📈 Funciones avanzadas
 Ejemplos con ÍNDICE, COINCIDIR, DESREF, XLOOKUP, funciones dinámicas, y más.
 
 📝 Ejercicios de cursos / YouTub
