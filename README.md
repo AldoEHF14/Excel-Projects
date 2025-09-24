@@ -1,4 +1,6 @@
 # 🟩 Excel-projects
+¡Bienvenido a mi repositorio de Exce!
+
 Este repostorio contiene problemas de Excel, asi como creacion de dashboards. Encontrarás diferentes prácticas, proyectos y ejemplos en Excel.
 
 Estan organizados en varios temas:
